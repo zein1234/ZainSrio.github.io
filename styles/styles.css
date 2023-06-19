@@ -561,6 +561,8 @@ section {
 .contact-content-con .left-contact .contact-icon {
   display: flex;
   margin-top: 2rem;
+  align-items: center;
+  justify-content: center;
 }
 .contact-content-con .left-contact .contact-icon a {
   display: flex;
